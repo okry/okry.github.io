@@ -1,0 +1,32 @@
+
+
+
+.top {padding-top: 40px;}
+
+
+h3 { 
+	font-weight: 300;
+	font-family: "Arial";
+	font-size:20px;
+	padding-top:22px;
+}
+
+h4 {
+	font-weight: 300;
+	font-family: "Helvetica";
+	font-size:20px;
+	padding-top:22px;
+}
+
+div.right-header {
+	text-align: right;
+	vertical-align: bottom;
+}
+
+
+a {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
